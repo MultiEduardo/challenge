@@ -36,8 +36,8 @@ Ambas herramientas, **DataGrip** y **pgAdmin**, ofrecen funcionalidades para adm
 ## Installation
 Primero, clonaremos el repositorio. Una vez clonado, nos dirigiremos a la carpeta **challenge**.
 ```bash
-    git clone https://github.com/MultiEduardo/challenge
-    cd challenge
+  git clone https://github.com/MultiEduardo/challenge
+  cd challenge
 ```
 Dentro de la carpeta **challenge**, instalaremos las dependencias necesarias.
 
@@ -49,7 +49,7 @@ Dentro de la carpeta **challenge**, instalaremos las dependencias necesarias.
 Luego, vamos a crear una base de datos. Abre una terminal y asegúrate de tener acceso a PostgreSQL. Desde la terminal, ejecuta:
 
 ```bash
-  psql -U posgresql
+  psql -U postgres
 ```
 Una vez dentro del terminal de PostgreSQL, puedes ejecutar los siguientes comandos SQL para crear una base de datos y un esquema:
 
