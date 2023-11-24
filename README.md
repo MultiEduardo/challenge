@@ -36,7 +36,7 @@ Ambas herramientas, **DataGrip** y **pgAdmin**, ofrecen funcionalidades para adm
 ## Installation
 Primero, clonaremos el repositorio. Una vez clonado, nos dirigiremos a la carpeta **challenge**.
 ```bash
-    git clone https://ejemplo.com/repo.git
+    git clone https://github.com/MultiEduardo/challenge
     cd challenge
 ```
 Dentro de la carpeta **challenge**, instalaremos las dependencias necesarias.
